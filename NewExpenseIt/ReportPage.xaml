@@ -1,0 +1,50 @@
+﻿<Page x:Class="NewExpenseIt.ReportPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:NewExpenseIt"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="ReportPage">
+
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="wallpaperflare.com_wallpaper (1).jpg"/>
+        </Grid.Background>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="60"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition/>              
+        </Grid.RowDefinitions>
+
+        <Label Grid.Column="1" Content="Expence Report For" Style="{StaticResource LabelStyle}"/>
+
+        <StackPanel Grid.Row="1" Grid.Column="1" Orientation="Horizontal">
+            <Label Content="Name :" Style="{StaticResource SubLabelStyle}"/>
+            <Label Content="{Binding Name}" Style="{StaticResource SubLabelStyle}"/>
+        </StackPanel>
+        <StackPanel Grid.Row="2" Grid.Column="1" Orientation="Horizontal">
+            <Label Content="Department :" Style="{StaticResource SubLabelStyle}"/>
+            <Label Name="DepartmentData" Style="{StaticResource SubLabelStyle}"/>
+        </StackPanel>
+
+        <Grid Grid.Column="1" Grid.Row="3">
+            <DataGrid Name="DataGridName" AutoGenerateColumns="False" VerticalAlignment="Top" HorizontalAlignment="Left" ColumnHeaderStyle="{StaticResource ColumnHeaderStyle}">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Amount" Binding="{Binding PersonAmount}" FontFamily="Cascadia Code" FontSize="24"/>
+                    <DataGridTextColumn Header="ExpenseType" Binding="{Binding PersonExpenseType}" FontFamily="Cascadia Code" FontSize="24"/>
+                </DataGrid.Columns>
+            </DataGrid>
+        </Grid>
+        <StackPanel Grid.Column="0" Grid.Row="3"  VerticalAlignment="Bottom" HorizontalAlignment="Left"  Orientation="Horizontal">
+            <Button Content="back" Style="{StaticResource ButtonStyle}" Margin="20" Click="Back_Click" />
+            <Button Content="Modify" Style="{StaticResource ButtonStyle}" Margin="20" Click="Modify_Click"  />
+        </StackPanel>
+    </Grid>
+</Page>

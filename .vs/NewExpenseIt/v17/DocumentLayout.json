@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\owner\\OneDrive\\Desktop\\NewExpenseIt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D817204E-49D5-4056-B61C-B61FC6F75997}|NewExpenseIt\\NewExpenseIt.csproj|C:\\Users\\owner\\OneDrive\\Desktop\\NewExpenseIt\\newexpenseit\\modifypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D817204E-49D5-4056-B61C-B61FC6F75997}|NewExpenseIt\\NewExpenseIt.csproj|solutionrelative:newexpenseit\\modifypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D817204E-49D5-4056-B61C-B61FC6F75997}|NewExpenseIt\\NewExpenseIt.csproj|c:\\users\\owner\\onedrive\\desktop\\newexpenseit\\newexpenseit\\reportpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D817204E-49D5-4056-B61C-B61FC6F75997}|NewExpenseIt\\NewExpenseIt.csproj|solutionrelative:newexpenseit\\reportpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D817204E-49D5-4056-B61C-B61FC6F75997}|NewExpenseIt\\NewExpenseIt.csproj|C:\\Users\\owner\\OneDrive\\Desktop\\NewExpenseIt\\newexpenseit\\home.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D817204E-49D5-4056-B61C-B61FC6F75997}|NewExpenseIt\\NewExpenseIt.csproj|solutionrelative:newexpenseit\\home.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D817204E-49D5-4056-B61C-B61FC6F75997}|NewExpenseIt\\NewExpenseIt.csproj|C:\\Users\\owner\\OneDrive\\Desktop\\NewExpenseIt\\newexpenseit\\home.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D817204E-49D5-4056-B61C-B61FC6F75997}|NewExpenseIt\\NewExpenseIt.csproj|solutionrelative:newexpenseit\\home.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D817204E-49D5-4056-B61C-B61FC6F75997}|NewExpenseIt\\NewExpenseIt.csproj|C:\\Users\\owner\\OneDrive\\Desktop\\NewExpenseIt\\newexpenseit\\reportpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D817204E-49D5-4056-B61C-B61FC6F75997}|NewExpenseIt\\NewExpenseIt.csproj|solutionrelative:newexpenseit\\reportpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D817204E-49D5-4056-B61C-B61FC6F75997}|NewExpenseIt\\NewExpenseIt.csproj|C:\\Users\\owner\\OneDrive\\Desktop\\NewExpenseIt\\newexpenseit\\modifypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D817204E-49D5-4056-B61C-B61FC6F75997}|NewExpenseIt\\NewExpenseIt.csproj|solutionrelative:newexpenseit\\modifypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D817204E-49D5-4056-B61C-B61FC6F75997}|NewExpenseIt\\NewExpenseIt.csproj|C:\\Users\\owner\\OneDrive\\Desktop\\NewExpenseIt\\newexpenseit\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D817204E-49D5-4056-B61C-B61FC6F75997}|NewExpenseIt\\NewExpenseIt.csproj|solutionrelative:newexpenseit\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 160,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReportPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\OneDrive\\Desktop\\NewExpenseIt\\NewExpenseIt\\ReportPage.xaml.cs",
+              "RelativeDocumentMoniker": "NewExpenseIt\\ReportPage.xaml.cs",
+              "ToolTip": "C:\\Users\\owner\\OneDrive\\Desktop\\NewExpenseIt\\NewExpenseIt\\ReportPage.xaml.cs",
+              "RelativeToolTip": "NewExpenseIt\\ReportPage.xaml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAxwCYAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T18:23:36.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ModifyPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\OneDrive\\Desktop\\NewExpenseIt\\NewExpenseIt\\ModifyPage.xaml.cs",
+              "RelativeDocumentMoniker": "NewExpenseIt\\ModifyPage.xaml.cs",
+              "ToolTip": "C:\\Users\\owner\\OneDrive\\Desktop\\NewExpenseIt\\NewExpenseIt\\ModifyPage.xaml.cs",
+              "RelativeToolTip": "NewExpenseIt\\ModifyPage.xaml.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T09:37:28.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Home.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\OneDrive\\Desktop\\NewExpenseIt\\NewExpenseIt\\Home.xaml.cs",
+              "RelativeDocumentMoniker": "NewExpenseIt\\Home.xaml.cs",
+              "ToolTip": "C:\\Users\\owner\\OneDrive\\Desktop\\NewExpenseIt\\NewExpenseIt\\Home.xaml.cs*",
+              "RelativeToolTip": "NewExpenseIt\\Home.xaml.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCAAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T16:43:01.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReportPage.xaml",
+              "DocumentMoniker": "C:\\Users\\owner\\OneDrive\\Desktop\\NewExpenseIt\\NewExpenseIt\\ReportPage.xaml",
+              "RelativeDocumentMoniker": "NewExpenseIt\\ReportPage.xaml",
+              "ToolTip": "C:\\Users\\owner\\OneDrive\\Desktop\\NewExpenseIt\\NewExpenseIt\\ReportPage.xaml",
+              "RelativeToolTip": "NewExpenseIt\\ReportPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-06T09:51:58.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ModifyPage.xaml",
+              "DocumentMoniker": "C:\\Users\\owner\\OneDrive\\Desktop\\NewExpenseIt\\NewExpenseIt\\ModifyPage.xaml",
+              "RelativeDocumentMoniker": "NewExpenseIt\\ModifyPage.xaml",
+              "ToolTip": "C:\\Users\\owner\\OneDrive\\Desktop\\NewExpenseIt\\NewExpenseIt\\ModifyPage.xaml",
+              "RelativeToolTip": "NewExpenseIt\\ModifyPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-06T09:34:45.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home.xaml",
+              "DocumentMoniker": "C:\\Users\\owner\\OneDrive\\Desktop\\NewExpenseIt\\NewExpenseIt\\Home.xaml",
+              "RelativeDocumentMoniker": "NewExpenseIt\\Home.xaml",
+              "ToolTip": "C:\\Users\\owner\\OneDrive\\Desktop\\NewExpenseIt\\NewExpenseIt\\Home.xaml",
+              "RelativeToolTip": "NewExpenseIt\\Home.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-05T16:06:45.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\owner\\OneDrive\\Desktop\\NewExpenseIt\\NewExpenseIt\\App.xaml",
+              "RelativeDocumentMoniker": "NewExpenseIt\\App.xaml",
+              "ToolTip": "C:\\Users\\owner\\OneDrive\\Desktop\\NewExpenseIt\\NewExpenseIt\\App.xaml",
+              "RelativeToolTip": "NewExpenseIt\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-05T16:11:30.538Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
